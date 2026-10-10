@@ -1,2 +1,2 @@
 # Java-DSA
-Data Structure and Algorithms Challenge in Java.
+Building strong problem-solving skills through daily Java DSA practice, one problem at a time. 
